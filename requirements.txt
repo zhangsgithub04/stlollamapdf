@@ -1,0 +1,7 @@
+langchain
+pymupdf
+huggingface_hub  # For Hugging Face embeddings
+sentence-transformers  # For Hugging Face embeddings (often needed)
+llama-cpp-python # For Ollama
+faiss-cpu  # Or faiss-gpu if you have GPU support
+streamlit
